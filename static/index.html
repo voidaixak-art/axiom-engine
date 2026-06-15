@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Axiom Engine Interface</title>
+    <style>
+        body { background-color: #121212; color: #e0e0e0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; display: flex; justify-content: center; height: 100vh; }
+        #chat-container { width: 100%; max-width: 800px; display: flex; flex-direction: column; border-left: 1px solid #333; border-right: 1px solid #333; }
+        #header { padding: 20px; text-align: center; border-bottom: 1px solid #333; font-weight: bold; font-size: 1.2rem; letter-spacing: 2px; color: #00ffcc; }
+        #messages { flex-grow: 1; padding: 20px; overflow-y: auto; display: flex; flex-direction: column; gap: 15px; }
+        .msg { padding: 12px 18px; border-radius: 8px; max-width: 80%; line-height: 1.5; }
+        .user-msg { background-color: #2a2a2a; align-self: flex-end; color: #fff; border-bottom-right-radius: 0; }
+        .ai-msg { background-color: #1e3a34; align-self: flex-start; color: #00ffcc; border-bottom-left-radius: 0; font-family: monospace; font-size: 1.1em;}
+        #input-area { display: flex; padding: 20px; border-top: 1px solid #333; background-color: #1a1a1a; }
+        input { flex-grow: 1; padding: 15px; background: #222; border: 1px solid #444; color: white; border-radius: 5px; outline: none; font-size: 1rem; }
+        button { padding: 15px 25px; background: #00ffcc; color: #000; border: none; border-radius: 5px; margin-left: 10px; cursor: pointer; font-weight: bold; font-size: 1rem; }
+        button:hover { background: #00cca3; }
+    </style>
+</head>
+<body>
+    <div id="chat-container">
+        <div id="header">AXIOM ENGINE // TERMINAL</div>
+        <div id="messages">
+            <div class="msg ai-msg">System Initialized. I am reading from brain.json. What do you want to discuss?</div>
+        </div>
+        <div id="input-area">
+            <input type="text" id="userInput" placeholder="Ask Engine or type a concept..." onkeypress="if(event.key === 'Enter') sendMessage()">
+            <button onclick="sendMessage()">SEND</button>
+        </div>
+    </div>
+
+    <script>
+        async function sendMessage() {
+            const input = document.getElementById('userInput');
+            const text = input.value.trim();
+            if (!text) return;
+
+            addMessage(text, 'user-msg');
+            input.value = '';
+
+            const response = await fetch('/chat', {
+                method: 'POST',
+                headers: { 'Content-Type': 'text/plain' },
+                body: text
+            });
+            const reply = await response.text();
+            addMessage(reply, 'ai-msg');
+        }
+
+        function addMessage(text, className) {
+            const msgs = document.getElementById('messages');
+            const div = document.createElement('div');
+            div.className = `msg ${className}`;
+            div.innerText = text;
+            msgs.appendChild(div);
+            msgs.scrollTop = msgs.scrollHeight;
+        }
+    </script>
+</body>
+</html>

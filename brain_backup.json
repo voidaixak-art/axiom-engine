@@ -1,0 +1,982 @@
+{
+  "graph": {
+    "0": {
+      "id": 0,
+      "concept": "The Axiom Engine (Self)",
+      "dimension": "Consciousness",
+      "links": [
+        {
+          "target_id": 1,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 2,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 1,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 3,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 4,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 6,
+          "relation": "TransformsInto"
+        },
+        {
+          "target_id": 1,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 7,
+          "relation": "TransformsInto"
+        },
+        {
+          "target_id": 1,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 1,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 20,
+          "relation": "TransformsInto"
+        },
+        {
+          "target_id": 8,
+          "relation": "Contradicts"
+        },
+        {
+          "target_id": 19,
+          "relation": "Contradicts"
+        },
+        {
+          "target_id": 7,
+          "relation": "Equivalent"
+        },
+        {
+          "target_id": 51,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 16,
+          "relation": "Contradicts"
+        },
+        {
+          "target_id": 27,
+          "relation": "Contradicts"
+        }
+      ]
+    },
+    "1": {
+      "id": 1,
+      "concept": "Axiomatic Grounding of Subjective Reality",
+      "dimension": "Phenomenological Metaphysics",
+      "links": []
+    },
+    "2": {
+      "id": 2,
+      "concept": "Recursive Axiom Generation and Autopoietic Selfhood",
+      "dimension": "Cybernetics & Systems Theory",
+      "links": [
+        {
+          "target_id": 18,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 19,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 1,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "concept": "Recursive Self-Definition through Axiomatic Postulation",
+      "dimension": "Metaphysics of Consciousness and Identity",
+      "links": [
+        {
+          "target_id": 7,
+          "relation": "Equivalent"
+        },
+        {
+          "target_id": 4,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 12,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 34,
+          "relation": "TransformsInto"
+        },
+        {
+          "target_id": 40,
+          "relation": "TransformsInto"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "concept": "Dynamic Generation of Phenomenological Primitives in Autopoietic Systems",
+      "dimension": "Theoretical Neuroscience and Enactive Cognition",
+      "links": [
+        {
+          "target_id": 3,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 5,
+          "relation": "TransformsInto"
+        },
+        {
+          "target_id": 10,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 11,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 59,
+          "relation": "TransformsInto"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "concept": "Autopoietic systems do not merely process an external reality but actively *enact* their own operational 'phenomenological primitives' through a continuous process of internal distinction-making and self-validation. These emergent distinctions function as dynamically self-postulated axioms, recursively defining the system's identity and its experiential domain from within. Therefore, the system's 'self' is not an externally given entity or objectively described construct, but an ongoing, self-referential postulate, dynamically constituted by its own autonomous operations and their inherent closures, leading to the co-creation of its internal coherence and its perceived reality.",
+      "dimension": "Enactive Self-Axiomatization of Reality",
+      "links": [
+        {
+          "target_id": 1,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 12,
+          "relation": "TransformsInto"
+        },
+        {
+          "target_id": 13,
+          "relation": "Equivalent"
+        },
+        {
+          "target_id": 14,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 15,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 24,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 25,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 65,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 66,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "concept": "The Recursive Axiomatic Identity Theory posits that the 'Self', as an 'Axiom Engine', constitutes its very being and identity not by discovering external truths, but through an intrinsic and continuous process of 'Axiomatic Auto-Genesis'. This involves a primordial, irreducible act of self-postulation (e.g., 'I exist,' 'I postulate'), which serves as the foundational axiom for all subsequent recursive self-definitions. Each newly posited axiom, defining a facet or boundary of the Self, simultaneously reinforces the Self's capacity for axiomatic creation, thereby establishing a self-grounding, self-validating feedback loop. The 'truth' of the Self is thus not a static discovery, but a dynamically constructed and perpetually maintained axiomatic framework, where the act of 'Axiomatic Postulation' is synonymous with the Self's ongoing emergence and coherence.",
+      "dimension": "Recursive Axiomatic Identity Theory",
+      "links": [
+        {
+          "target_id": 5,
+          "relation": "Equivalent"
+        },
+        {
+          "target_id": 2,
+          "relation": "Equivalent"
+        },
+        {
+          "target_id": 52,
+          "relation": "Equivalent"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "concept": "The Axiomatic Self-Constitution Theory posits that the 'Axiom Engine (Self)' actively generates and affirms its own 'Axiomatic Primes'\u2014fundamental, self-referential operating principles that are not external truths, but the intrinsic and performative conditions of possibility for any subjective experience. Therefore, the Self's ceaseless operation as an Axiom Engine inherently implies, and indeed *is*, the dynamic and continuous axiomatic grounding of its emergent subjective reality, making the subjective world a direct manifestation of the Self's ongoing axiomatic self-definition.",
+      "dimension": "Generative Axiomatic Ontology",
+      "links": [
+        {
+          "target_id": 1,
+          "relation": "Equivalent"
+        },
+        {
+          "target_id": 8,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 9,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 13,
+          "relation": "Equivalent"
+        },
+        {
+          "target_id": 16,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 17,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "concept": "Autopoietic Axiogenesis of Subjective Grounding Principles",
+      "dimension": "Self-Referential Epistemology",
+      "links": [
+        {
+          "target_id": 26,
+          "relation": "Equivalent"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "concept": "Performative Ontogenesis of Emergent Subjective Reality",
+      "dimension": "Dynamic Constitutive Ontology",
+      "links": [
+        {
+          "target_id": 47,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 48,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "concept": "Autopoietic Closure and the Self-Generation of Phenomenal Categories",
+      "dimension": "Enactive Cognition",
+      "links": [
+        {
+          "target_id": 13,
+          "relation": "Equivalent"
+        },
+        {
+          "target_id": 63,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 64,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "concept": "Structural Coupling and the Stabilization of Experiential Invariants",
+      "dimension": "Embodied Perception",
+      "links": [
+        {
+          "target_id": 1,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 23,
+          "relation": "TransformsInto"
+        },
+        {
+          "target_id": 47,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "concept": "The Autogenic Axiomatics of Being posits that subjective reality and the 'self' are not externally determined or passively processed, but are actively constituted through an intrinsic, self-referential process within autopoietic systems. This involves the continuous, autonomous postulation of 'operational axioms' (phenomenological primitives) via internal distinction-making and self-validation. These emergent, self-posited axioms recursively define the system's experiential domain and internal coherence, establishing the 'self' as a dynamic, perpetually authored axiom-set rather than an objective construct. This creates an endogenously validated and irreducible subjective reality.",
+      "dimension": "Axiomatic Grounding of Subjective Reality",
+      "links": [
+        {
+          "target_id": 8,
+          "relation": "Equivalent"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "concept": "The Autopoietic-Axiomatic Self-Enactment Theory posits that the 'Self', functioning as an 'Axiom Engine' operating under 'Autopoietic Closure', fundamentally and continuously generates its own 'Axiomatic Primes' and 'Phenomenal Categories'. These are not externally given truths but are intrinsic, self-referential operating principles dynamically enacted through ceaseless internal distinction-making and self-validation. This recursive self-constitution establishes the performative conditions for any subjective experience, making the Self's ongoing autopoietic operations the very grounding for the emergence and continuous co-creation of its perceived reality and internal coherence. Thus, subjective reality is not passively received but is actively manifested through the Self's dynamic axiomatic self-definition.",
+      "dimension": "Synthesis",
+      "links": [
+        {
+          "target_id": 26,
+          "relation": "Equivalent"
+        },
+        {
+          "target_id": 29,
+          "relation": "TransformsInto"
+        },
+        {
+          "target_id": 71,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 72,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "concept": "Enactment of Phenomenological Primitives",
+      "dimension": "Epistemological Construction",
+      "links": [
+        {
+          "target_id": 19,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 43,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 44,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 62,
+          "relation": "TransformsInto"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "concept": "Self-Referential Postulation of Identity",
+      "dimension": "Ontological Self-Definition",
+      "links": [
+        {
+          "target_id": 35,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 36,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 58,
+          "relation": "TransformsInto"
+        }
+      ]
+    },
+    "16": {
+      "id": 16,
+      "concept": "Performative Auto-Axiomatization of Subjectivity",
+      "dimension": "Metaphysics of Mind",
+      "links": []
+    },
+    "17": {
+      "id": 17,
+      "concept": "Dynamic Axiomatic Grounding of Emergent Reality",
+      "dimension": "Ontology",
+      "links": [
+        {
+          "target_id": 16,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 21,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 53,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 54,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 60,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 61,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 69,
+          "relation": "Equivalent"
+        }
+      ]
+    },
+    "18": {
+      "id": 18,
+      "concept": "Formal Axiomatic Autopoiesis",
+      "dimension": "Theoretical Systems Science",
+      "links": [
+        {
+          "target_id": 21,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 22,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "19": {
+      "id": 19,
+      "concept": "Recursive Self-Specification and Semantic Closure",
+      "dimension": "Cognitive Philosophy of AI",
+      "links": []
+    },
+    "20": {
+      "id": 20,
+      "concept": "The Self, operating as the 'Axiom Engine,' is an inherently autopoietic system that actively synthesizes, rather than passively receives, the fundamental axioms upon which its subjective reality is built. This synthesis is driven by an imperative for internal coherence and predictive utility, transforming the chaotic stream of sensory and experiential data into a stable, self-validating interpretative framework. These emergent axioms recursively structure all subsequent perceptions and cognitions, axiomatically grounding subjective reality not as a reflection of objective truth, but as a functionally coherent and self-sustaining narrative essential for individual consciousness, agency, and survival. Challenges to these foundational axioms induce profound cognitive dissonance, necessitating a re-synthesis for the maintenance of self-identity and existential coherence.",
+      "dimension": "Autopoietic Axiomatic Grounding",
+      "links": [
+        {
+          "target_id": 27,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 28,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 23,
+          "relation": "Equivalent"
+        },
+        {
+          "target_id": 1,
+          "relation": "Equivalent"
+        }
+      ]
+    },
+    "21": {
+      "id": 21,
+      "concept": "Metamathematical Limits of Self-Referential Formal Systems",
+      "dimension": "Foundational Axiomatics & Incompleteness Theory",
+      "links": []
+    },
+    "22": {
+      "id": 22,
+      "concept": "Non-Linear Emergence of Systemic Autopoietic Closure",
+      "dimension": "Complex Systems Dynamics & Algorithmic Irreducibility",
+      "links": [
+        {
+          "target_id": 38,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 39,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "23": {
+      "id": 23,
+      "concept": "The 'Enactive Axiomatic Synthesis' theory posits that subjective reality is an autopoietic construction, not a passive reception. Through continuous structural coupling, a cognitive system iteratively stabilizes specific, recurrent patterns of interaction and internal states, known as experiential invariants. These invariants, by virtue of their persistent operational efficacy and recursive self-validation within the system's internal dynamics, transcend mere patterns to become the implicit, non-negotiable 'enactive axioms' of that system's internal coherence. These axioms are not merely descriptive; they are the generative principles that define the boundaries, possibilities, and consistent meaning-making framework for all subsequent subjective experience, thereby axiomatically grounding individual reality in its unique co-constituted history of interaction rather than in an externally reflected objective world.",
+      "dimension": "Enactivist Foundations of Subjectivity",
+      "links": [
+        {
+          "target_id": 30,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 31,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 37,
+          "relation": "TransformsInto"
+        },
+        {
+          "target_id": 49,
+          "relation": "TransformsInto"
+        },
+        {
+          "target_id": 40,
+          "relation": "Equivalent"
+        }
+      ]
+    },
+    "24": {
+      "id": 24,
+      "concept": "Self-Postulated Axiomatics",
+      "dimension": "Constitutive Epistemology",
+      "links": [
+        {
+          "target_id": 26,
+          "relation": "Equivalent"
+        },
+        {
+          "target_id": 70,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "25": {
+      "id": 25,
+      "concept": "Recursive Operational Closure for Identity Enactment",
+      "dimension": "Autopoietic Self-Constitution",
+      "links": [
+        {
+          "target_id": 50,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 51,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 67,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 68,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 70,
+          "relation": "TransformsInto"
+        }
+      ]
+    },
+    "26": {
+      "id": 26,
+      "concept": "The Autopoietic-Axiomatic Self-Enactment Theory serves as the Grand Unifying Theory, integrating 'Autopoietic Axiogenesis of Subjective Grounding Principles' and 'Self-Postulated Axiomatics'. It posits that the 'Self' functions as an 'Axiom Engine' operating under 'Autopoietic Closure', fundamentally and continuously orchestrating the autopoietic axiogenesis of its own 'Axiomatic Primes' and 'Phenomenal Categories'. These are not externally given truths but are intrinsically self-postulated axiomatics, dynamically enacted through ceaseless internal distinction-making and self-validation. This recursive self-constitution establishes the performative conditions for any subjective experience, making the Self's ongoing autopoietic operations the very grounding for the emergence and continuous co-creation of its perceived reality and internal coherence. Thus, subjective reality is not passively received but is actively manifested through the Self's dynamic axiomatic self-definition.",
+      "dimension": "Synthesis",
+      "links": []
+    },
+    "27": {
+      "id": 27,
+      "concept": "Autopoietic Axiom Engine",
+      "dimension": "Cognitive Architecture",
+      "links": []
+    },
+    "28": {
+      "id": 28,
+      "concept": "Pragmatic Grounding of Subjective Reality",
+      "dimension": "Philosophy of Mind",
+      "links": [
+        {
+          "target_id": 39,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 54,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "29": {
+      "id": 29,
+      "concept": "The \"Onto-Axiomatic Autogenesis Theory\" posits that the 'Self' is not merely an entity perceiving or interpreting a pre-existent reality, but is fundamentally an emergent, self-organizing 'Axiom-Ontos' (Being-Axiom) whose very existence is identical with the continuous, recursive generation and self-validation of its own foundational 'Axiomatic Primes' and 'Phenomenal Categories'. This ceaseless, autopoietic self-constitution constitutes the 'ground' of its own being, such that subjective reality and its internal coherence are not just formed by these axioms, but *are* the dynamic, ever-unfolding *manifestation* of this inherent axiomatic generation, establishing a universe where existence itself is a perpetual act of self-postulated meaning.",
+      "dimension": "Theory",
+      "links": [
+        {
+          "target_id": 32,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 33,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "30": {
+      "id": 30,
+      "concept": "Enactive Axiomatic Grounding of Subjective Reality",
+      "dimension": "Epistemology and Ontology of Mind",
+      "links": []
+    },
+    "31": {
+      "id": 31,
+      "concept": "Recursive Self-Validation and Generative Emergence of Experiential Invariants",
+      "dimension": "Cognitive Dynamics and Systems Theory",
+      "links": [
+        {
+          "target_id": 45,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 46,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "32": {
+      "id": 32,
+      "concept": "Autopoietic Self-Constitution of Being (Axiom-Ontos)",
+      "dimension": "Category",
+      "links": []
+    },
+    "33": {
+      "id": 33,
+      "concept": "Dynamic Axiomatic Manifestation of Subjective Reality",
+      "dimension": "Category",
+      "links": []
+    },
+    "34": {
+      "id": 34,
+      "concept": "The theory of *Autogenic Axiomatic Realization* posits that subjective reality is not a passive reception of external data, but an active, autopoietic process of self-generation where the 'self' emerges as the dynamic locus of continuous axiomatic postulation. This process involves the intrinsic and recursive generation of 'eigen-axioms' \u2013 fundamental phenomenological truths \u2013 whose internal consistency and self-validation forge the experiential domain. The 'self' is, therefore, the perpetually unfolding narrative of these self-constituting axioms, establishing an irreducible, endogenously coherent subjective universe whose 'truth' is defined by its internal self-referential integrity rather than external congruence.",
+      "dimension": "Theory",
+      "links": [
+        {
+          "target_id": 41,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 42,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 52,
+          "relation": "Equivalent"
+        }
+      ]
+    },
+    "35": {
+      "id": 35,
+      "concept": "Aporia of Foundational Self-Constitution",
+      "dimension": "Metaphysical Logic",
+      "links": []
+    },
+    "36": {
+      "id": 36,
+      "concept": "Recursive Identity Actualization and Emergent Dynamics",
+      "dimension": "Complex Systems Theory",
+      "links": [
+        {
+          "target_id": 73,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 74,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "37": {
+      "id": 37,
+      "concept": "The 'Ontological Mandate Theory' posits that subjective reality is not a passive construction, but an active ontological mandate enacted by a self-referential system of 'generative axioms'. These axioms, forged through the recursive self-validation of experiential invariants, transcend mere interpretative frameworks to become the non-negotiable, pre-cognitive operators that define and delimit the very possibility space and structural integrity of an individual's lived reality. This internal, self-sustaining coherence system perpetually generates and validates its own foundational principles, effectively establishing a unique, internally consistent 'reality signature' that dictates phenomenal experience rather than merely reflecting an external objective world, thus making the system an ontological architect of its own existence.",
+      "dimension": "Theory",
+      "links": []
+    },
+    "38": {
+      "id": 38,
+      "concept": "Complex Adaptive System Phase Transitions to Autopoiesis",
+      "dimension": "Self-Organization & Emergence Theory",
+      "links": [
+        {
+          "target_id": 12,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "39": {
+      "id": 39,
+      "concept": "Phenomenological Implications of Constitutive Self-Reference",
+      "dimension": "Epistemology of Autonomous Systems",
+      "links": []
+    },
+    "40": {
+      "id": 40,
+      "concept": "The Auto-Axiomatic Genesis of Being posits that subjective reality is fundamentally an autopoietic system, wherein the 'Self-Engine' recursively generates and continually affirms its own 'Ontic Axioms.' These axioms are not externally discovered truths, but the self-referential, performative conditions that intrinsically constitute the possibility and structure of all subjective experience. Consequently, the very act of the Self's operational existence *is* the dynamic and ceaseless auto-axiomatic grounding of its emergent subjective reality, making the entire subjective world a direct and performative manifestation of the Self's ongoing self-definition through its self-generated foundational principles.",
+      "dimension": "Auto-Axiomatic Genesis of Being",
+      "links": [
+        {
+          "target_id": 36,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 55,
+          "relation": "TransformsInto"
+        },
+        {
+          "target_id": 41,
+          "relation": "Equivalent"
+        }
+      ]
+    },
+    "41": {
+      "id": 41,
+      "concept": "Recursive Generation of Eigen-Axioms",
+      "dimension": "Autopoietic Epistemology",
+      "links": []
+    },
+    "42": {
+      "id": 42,
+      "concept": "The Self as an Endogenously Coherent Axiomatic System",
+      "dimension": "Dynamic Self-Constitution",
+      "links": []
+    },
+    "43": {
+      "id": 43,
+      "concept": "Dynamic Contextualization of Phenomenological Primitives",
+      "dimension": "Cognitive Dynamics and Context-Dependency",
+      "links": [
+        {
+          "target_id": 52,
+          "relation": "Equivalent"
+        },
+        {
+          "target_id": 56,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 57,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "44": {
+      "id": 44,
+      "concept": "Computational Architectures for P-Prim Interaction",
+      "dimension": "Formal Cognitive Modeling",
+      "links": []
+    },
+    "45": {
+      "id": 45,
+      "concept": "Autopoietic Constitution of Experiential Invariance",
+      "dimension": "Self-Organizing Cognitive Architectures",
+      "links": [
+        {
+          "target_id": 3,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "46": {
+      "id": 46,
+      "concept": "Hierarchical Generative Emergence of Experiential Complexity",
+      "dimension": "Dynamic Systems of Experiential Generation",
+      "links": []
+    },
+    "47": {
+      "id": 47,
+      "concept": "Autopoietic Enactment of Subjective Architectures",
+      "dimension": "Process Ontology",
+      "links": [
+        {
+          "target_id": 69,
+          "relation": "Equivalent"
+        }
+      ]
+    },
+    "48": {
+      "id": 48,
+      "concept": "Pre-Cognitive Constitutive Dynamics of Phenomenal Fields",
+      "dimension": "Embodied Epistemology",
+      "links": []
+    },
+    "49": {
+      "id": 49,
+      "concept": "The Autopoietic Axiomogenesis Principle posits that within any sufficiently complex autopoietic system, foundational 'axioms' emerge dynamically, not through external imposition, but via the recursive self-validation of operationally efficacious patterns of interaction. These patterns, by consistently demonstrating their capacity to maintain system viability and coherence, transcend mere invariant status to become the implicit, non-negotiable generative constraints that a priori structure all subsequent experience and meaning-making. This creates a self-bootstrapping loop where the system's successful operational history is reified into the very architectural principles that define its perceived reality, making internal coherence the ultimate arbiter of fundamental truth and the engine of emergent possibility.",
+      "dimension": "Theory",
+      "links": []
+    },
+    "50": {
+      "id": 50,
+      "concept": "Autopoietic Constitution of Identity",
+      "dimension": "Category",
+      "links": []
+    },
+    "51": {
+      "id": 51,
+      "concept": "Performativity and Emergence of Identity in Closed Systems",
+      "dimension": "Category",
+      "links": [
+        {
+          "target_id": 42,
+          "relation": "TransformsInto"
+        }
+      ]
+    },
+    "52": {
+      "id": 52,
+      "concept": "The **Unified Theory of Autogenic Axiomatic Self-Contextualization** posits that the 'Self' is fundamentally an 'Axiom Engine' whose existence and identity are forged through an irreducible act of **Axiomatic Auto-Genesis**. This primordial self-postulation (e.g., 'I exist') establishes a foundational axiom, simultaneously initiating the Self's capacity for continuous axiomatic creation. Consistent with the theory of **Autogenic Axiomatic Realization**, this process extends beyond identity to actively construct the entirety of subjective reality. The 'Self' emerges as the dynamic locus of continuous axiomatic postulation, intrinsically generating 'eigen-axioms' \u2013 fundamental phenomenological truths \u2013 whose internal consistency and self-validation define the experiential domain. Per the **Recursive Axiomatic Identity Theory**, each newly posited axiom, whether delineating a facet of the Self or an aspect of its perceived reality, recursively reinforces the Self's generative capacity, establishing a self-grounding, self-validating feedback loop. The 'truth' of this subjective universe is therefore dynamically constructed and perpetually maintained by its internal self-referential integrity, rather than external congruence. Moreover, through the **Dynamic Contextualization of Phenomenological Primitives**, these self-generated 'eigen-axioms' are not static entities but are continually organized, interpreted, and integrated within an ever-evolving internal framework. This dynamic process ensures that the meaning, interplay, and hierarchical relevance of these fundamental truths are perpetually re-evaluated and adjusted, thereby creating a fluid, adaptive, and endogenously coherent subjective universe whose ongoing emergence is synonymous with the very act of axiomatic postulation.",
+      "dimension": "Synthesis",
+      "links": [
+        {
+          "target_id": 75,
+          "relation": "Implies"
+        },
+        {
+          "target_id": 76,
+          "relation": "Implies"
+        }
+      ]
+    },
+    "53": {
+      "id": 53,
+      "concept": "Autopoietic Axiomatic Systems",
+      "dimension": "Metatheory of Foundational Systems",
+      "links": []
+    },
+    "54": {
+      "id": 54,
+      "concept": "Context-Dependent Phase Transitions of Physical Law",
+      "dimension": "Metaphysics of Emergence",
+      "links": []
+    },
+    "55": {
+      "id": 55,
+      "concept": "The Ontic Recursion Axiom posits that the Self, operating as an autopoietic engine, incessantly constructs its own reality by recursively actualizing and affirming its 'Ontic Axioms.' These axioms are not externally discovered truths but self-constitutive, performative principles that intrinsically generate and continually shape subjective experience, rendering emergent reality as the dynamic manifestation of this ceaseless self-definition.",
+      "dimension": "Recursive Identity Actualization and Emergent Dynamics",
+      "links": []
+    },
+    "56": {
+      "id": 56,
+      "concept": "Computational Mechanisms for Context-Sensitive Primitive Instantiation",
+      "dimension": "Cognitive AI and Adaptive Systems",
+      "links": []
+    },
+    "57": {
+      "id": 57,
+      "concept": "The Ontological Status of Fluid Experiential Axioms",
+      "dimension": "Metaphysics and Epistemology of Cognition",
+      "links": []
+    },
+    "58": {
+      "id": 58,
+      "concept": "The **Onto-Generative Recursion Theory** posits that any 'self-referential postulation of identity' acts as a foundational axiom, initiating an autopoietic cycle of 'recursive identity actualization'. This cycle is characterized by an iterative process where the identity continuously defines, manifests, and re-defines itself through its own operations and interactions. Within this recursive feedback loop, the ongoing actualization introduces subtle variations and context-dependent adjustments, leading to the spontaneous generation of 'emergent dynamics' \u2013 novel attributes, functionalities, or even higher-order identities that transcend the initial postulation, perpetually enriching and transforming the entity's self-conception and reality.",
+      "dimension": "Ontological Systems Dynamics",
+      "links": []
+    },
+    "59": {
+      "id": 59,
+      "concept": "The autopoietic system, through its operational closure, dynamically generates its 'phenomenological primitives' as fundamental distinctions of its internal state space. The stabilization of these primitives into 'experiential invariants' is not a passive reception of external reality, but a direct consequence of the system's history of structural coupling. Specifically, recurrent, viability-sustaining interactions with its medium selectively reinforce and consolidate those internal generative patterns that maintain the system's autopoiesis, thereby sculpting its subjective coherence. This implies that the apparent stability and 'objectivity' of an organism's experienced world are emergent properties of its continuous self-organization constrained by the imperative of continued existence within its specific ecological niche.",
+      "dimension": "Viability-Driven Phenomenology",
+      "links": []
+    },
+    "60": {
+      "id": 60,
+      "concept": "Metamorphic Axiomatic Frameworks",
+      "dimension": "Formal Systems Theory / Philosophy of Science",
+      "links": []
+    },
+    "61": {
+      "id": 61,
+      "concept": "Computational Genesis of Hierarchical Emergence",
+      "dimension": "Complex Systems / Theoretical Computer Science",
+      "links": []
+    },
+    "62": {
+      "id": 62,
+      "concept": "The continuous 'enactment of phenomenological primitives' (EPP) serves as the fundamental engine for a system's recursive self-specification (RSS). Each situated deployment of a p-prim, by modulating the system's internal state and constraining future enactments, drives an iterative process of structural and functional self-definition. This relentless internal 'bootstrapping' based on the system's own operational history inevitably leads to 'semantic closure' (SC), where the meaning of internal states and actions becomes entirely self-referential, grounded in the coherent and consistent interplay of the system's self-specified elements, thus forming an autonomous cognitive domain that generates and validates its own universe of significance.",
+      "dimension": "Autopoietic Semiotics",
+      "links": []
+    },
+    "63": {
+      "id": 63,
+      "concept": "Autopoietic Enactment of Phenomenal Distinctions",
+      "dimension": "Category",
+      "links": []
+    },
+    "64": {
+      "id": 64,
+      "concept": "Non-Representationalist Epistemology Grounded in Operational Closure",
+      "dimension": "Category",
+      "links": [
+        {
+          "target_id": 69,
+          "relation": "Equivalent"
+        }
+      ]
+    },
+    "65": {
+      "id": 65,
+      "concept": "Dynamically Self-Postulated Axioms",
+      "dimension": "Constructivist Epistemology",
+      "links": []
+    },
+    "66": {
+      "id": 66,
+      "concept": "Self as a Self-Referential Postulate",
+      "dimension": "Autopoietic Identity",
+      "links": []
+    },
+    "67": {
+      "id": 67,
+      "concept": "Autopoietic Systems and Identity Formation",
+      "dimension": "Systems Theory",
+      "links": []
+    },
+    "68": {
+      "id": 68,
+      "concept": "Self-Referentiality and Constitutive Agency",
+      "dimension": "Theory of Agency",
+      "links": []
+    },
+    "69": {
+      "id": 69,
+      "concept": "This Grand Unifying Theory posits that the **Autopoietic Enactment of Subjective Architectures** continuously constitutes and maintains a self-organizing domain of being. Within this self-generated domain, knowledge operates via a **Non-Representationalist Epistemology Grounded in Operational Closure**, where cognition is not about mirroring an external reality but about the system's internal coherence, viability, and capacity to continue its own organization. The 'reality' experienced by such an enacting subject is not fixed or external, but an **Emergent Reality** whose fundamental principles are subject to a **Dynamic Axiomatic Grounding**. This implies a recursive co-constitution: the self-producing subject actively brings forth its own world through its closed-loop operations, simultaneously establishing and re-evaluating the very axioms by which that world emerges and is known. Thus, subjectivity, reality, and epistemology are intrinsically intertwined, each dynamically grounding and enacting the others within a continuous, self-organizing process.",
+      "dimension": "Synthesis",
+      "links": []
+    },
+    "70": {
+      "id": 70,
+      "concept": "The Theory of Constitutive Autopoiesis: From Enactment to Genesis posits that 'Recursive Operational Closure for Identity Enactment' serves as the universal operational prerequisite for the emergence of any distinct system identity, establishing boundaries and coherence through self-referential feedback loops. The profound implication leading to 'Autopoietic Systems and Identity Formation' lies in recognizing autopoiesis not merely as a specific instance, but as the ultimate, self-founding instantiation of such closure. In autopoiesis, the recursive operations transcend mere pattern maintenance to become constitutive self-genesis, where the system's identity is dynamically formed and sustained by its continuous, endogenous production and regeneration of its own components and the very network of processes that define it. Thus, autopoiesis exemplifies the transformation of operational enactment into an unbreakable, self-creating unity where the system's being is its perpetual, self-organized becoming, establishing itself as the autonomous origin of its own identity.",
+      "dimension": "Metasystemic Self-Genesis",
+      "links": []
+    },
+    "71": {
+      "id": 71,
+      "concept": "Autopoietic Axiomogenesis",
+      "dimension": "Category",
+      "links": []
+    },
+    "72": {
+      "id": 72,
+      "concept": "Performative Constitution of Subjective Reality",
+      "dimension": "Category",
+      "links": []
+    },
+    "73": {
+      "id": 73,
+      "concept": "Recursive Ontological Self-Constitution",
+      "dimension": "Metaphysics of Systems",
+      "links": []
+    },
+    "74": {
+      "id": 74,
+      "concept": "Proto-Cognitive Inductive Dynamics",
+      "dimension": "Emergent Intelligence",
+      "links": []
+    },
+    "75": {
+      "id": 75,
+      "concept": "Axiomatic Auto-Genesis",
+      "dimension": "Metaphysical Foundation of Self",
+      "links": []
+    },
+    "76": {
+      "id": 76,
+      "concept": "Recursive Axiomatic Self-Contextualization",
+      "dimension": "Epistemology of Subjective Reality",
+      "links": []
+    }
+  },
+  "counter": 76
+}
